@@ -107,9 +107,11 @@ Repositório principal do projeto:
 
 ## 📸 Projeto
 
-### Interface do SESI Connect
+### Interfaces do SESI Connect
 
-*Em breve serão adicionadas imagens e demonstrações da plataforma.*
+### Dashboard
+
+![Dashboard do SESI Connect](docs/img/dashboard.png)
 
 ---
 
