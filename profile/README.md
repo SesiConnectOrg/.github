@@ -113,6 +113,15 @@ Repositório principal do projeto:
 
 ![Dashboard do SESI Connect](docs/img/dashboard.png)
 
+### Mural de Aulas
+![Mural de Aulas](docs/img/aulas.png)
+
+### Atividades
+![Atividades](docs/img/atividades.png)
+
+### IA Educacional
+![IA Educacional](docs/img/ia.png)
+
 ---
 
 ## 📊 Status
