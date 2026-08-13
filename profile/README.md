@@ -101,7 +101,7 @@ O SESI Connect é desenvolvido por:
 
 | Integrante         |
 | ------------------ |
-| **Davi Raposo**    |
+| [**Davi Raposo**](https://github.com/neooxprob)  |
 | **Eduardo Lucas**  |
 | **Emmanuel Vitor** |
 | **Gabriel Lima**   |
