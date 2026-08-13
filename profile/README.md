@@ -96,15 +96,16 @@ O SESI Connect é desenvolvido por:
 
 | Integrante         |
 | ------------------ |
-| **Jael Feijó**     |
 | **Davi Raposo**    |
-| **Emmanuel Vitor** |
-| **Kauã Riquelme**  |
 | **Eduardo Lucas**  |
-| **Rafael Rocha**   |
+| **Emmanuel Vitor** |
 | **Gabriel Lima**   |
+| **Jael Feijó**     |
+| **Kauã Riquelme**  |
 | **Manoel Ricardo** |
 | **Nicolas Maciel** |
+| **Rafael Rocha**   |
+
 
 ---
 
