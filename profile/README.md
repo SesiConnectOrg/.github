@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="docs/img/SESI connect (1).png" width="280">
+</p>
+
+<h1 align="center">SESI Connect</h1>
+
+<p align="center">
+  <strong>CONECTA • APRENDE • TRANSFORMA</strong>
+</p>
+
+<p align="center">
+  Tecnologia • Educação • Inovação
+</p>
+
+
 # 🏫 SESI Connect
 
 ### Tecnologia, educação e inovação em um só lugar.
